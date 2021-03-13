@@ -1,0 +1,1 @@
+Setting up wordpress site with terraform and Ansible.
